@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+# 日本語ラベル対策（任意）
+# japanize-matplotlib==1.1.3
