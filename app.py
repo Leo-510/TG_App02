@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
+import japanize_matplotlib
+
 
 # ===================== ユーティリティ =====================
 def is_numeric_series(s: pd.Series) -> bool:
